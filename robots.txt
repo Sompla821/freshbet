@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://freshbet.pages.dev/sitemap.xml
+Sitemap: https://freshbet-b3l.pages.dev/sitemap.xml
